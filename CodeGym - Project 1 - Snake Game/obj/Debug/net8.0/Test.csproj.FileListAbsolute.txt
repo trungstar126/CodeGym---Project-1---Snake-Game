@@ -1,0 +1,14 @@
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\0. Learning\Learning C#\CodeGym\Test\bin\Debug\net8.0\Test.exe
+D:\0. Learning\Learning C#\CodeGym\Test\bin\Debug\net8.0\Test.deps.json
+D:\0. Learning\Learning C#\CodeGym\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\0. Learning\Learning C#\CodeGym\Test\bin\Debug\net8.0\Test.dll
+D:\0. Learning\Learning C#\CodeGym\Test\bin\Debug\net8.0\Test.pdb
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.dll
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\refint\Test.dll
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.pdb
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\0. Learning\Learning C#\CodeGym\Test\obj\Debug\net8.0\ref\Test.dll
